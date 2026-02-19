@@ -1,0 +1,1 @@
+Para memorizar ciudades, regiones, países, continentes, ríos, lagos, mares, océanos y hasta los planetas del sistema solar: https://www.geoguessr.com/es/quiz/seterra

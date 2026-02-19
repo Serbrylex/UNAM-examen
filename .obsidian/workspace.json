@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "880de8c1c5121bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bdaf6ea0774e1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf4fe4a93bb4fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geografía/1. Geografía.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Geografía"
+            }
+          },
+          {
+            "id": "734311263d62da3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemáticas/Formulario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formulario"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8571080831d96e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f737b63a420625e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4566ca5f7624dbdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a39bd7be171ecdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5aa7e744749ce98b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70b725a549185d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce53aafbc016c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6af15edbc5ac03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geografía.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Geografía"
+            }
+          },
+          {
+            "id": "219ed75df7cb5c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geografía.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Geografía"
+            }
+          },
+          {
+            "id": "31367a1d953fcc52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81d04d10b20a3c81",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09f5ee4be1f4e87c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geografía.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Geografía"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "734311263d62da3d",
+  "lastOpenFiles": [
+    "Geografía/Tips geografía.md",
+    "Geografía/1. Geografía.md",
+    "Geografía/Geografía Física/1. Geografía física.md",
+    "Geografía/Geografía Física/Geomorfología.md",
+    "Geografía/Geografía Física/El relieve.md",
+    "Geografía/Geografía Física/Los sistemas montañosos de México.md",
+    "Geografía/Geografía Física/Distribución de los minerales preciosos, industriales y energéticos.md",
+    "Geografía/Geografía Física/Formas del relieve.md",
+    "Imagenes/republica-montanas.jpg",
+    "Imagenes/mapamundininos_5.jpg",
+    "Imagenes/Latitud_y_Longitud_en_la_Tierra.svg",
+    "Imagenes/norte_sur.jpg",
+    "Imagenes/Paralelos-y-meridianos-1-e1721423180359.jpg",
+    "Imagenes/Placas_tectonicas_mayores.svg",
+    "Imagenes/tipos_limites_placas_tectonicas-XL.webp",
+    "Imagenes/U2-Formas-del-relieve.gif",
+    "Imagenes/9fcd7885a2a782c2bd67e8ba723fc922.webp",
+    "Imagenes/473749686_122215435526021111_7276943481093133837_n.jpg",
+    "Geografía/Geografía Física/Zonas de riesgo volcánico y sísmico en el mundo.md",
+    "Geografía/Geografía Física/Hidrogeografía.md",
+    "Geografía/Geografía Física/Estructura interna de la tierra.md",
+    "Imagenes",
+    "Geografía/Geografía Física/Placas tectónicas.md",
+    "Geografía/Geografía Física/Sismicidad.md",
+    "Geografía/Geografía Humana/1. Geografía humana.md",
+    "Matemáticas/Formulario.md",
+    "Matemáticas/Cónicas.md",
+    "Geografía/Fundamentos",
+    "Geografía/Geografía Humana/Deterioro ambiental.md",
+    "Geografía/Geografía Humana/Población mundial.md",
+    "Geografía/Geografía Humana/Las regiones naturales.md",
+    "Geografía/Geografía Humana",
+    "Geografía/Geografía Física",
+    "Geografía/Fundamentos/Conceptos y herramientas.md",
+    "Geografía/Fundamentos/Husos horarios.md",
+    "Geografía/Fundamentos/Categorías de análisis.md",
+    "Geografía/Fundamentos/Altitud y altura.md",
+    "Geografía/Fundamentos/Coordenadas geográficas.md",
+    "Geografía/Fundamentos/Puntos, líneas y círculos imaginarios de la superficie terrestre.md",
+    "Geografía/Ubicación espacial y temporal.md",
+    "Matemáticas",
+    "Geografía"
+  ]
+}
