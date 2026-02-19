@@ -4,7 +4,7 @@ $\sqrt[n]{a^{m}} = a^{\dfrac{m}{n}}$
 
 # Cónicas
 
-**Formula general**: $Ax^2 + Bxy + Cy^2 + Dx + F = 0$
+**Formula general**: $Ax^2 + Bxy + Cy^2 + Dx + Ey +  F = 0$
 
 #### Identificación de cónicas
 
@@ -31,13 +31,13 @@ Lado recto: $Lr = 4p$
 Formulas:
 
 - Vertical: $(x - h)^2 = 4p(y - k)$, si p es positivo U (sube), si es negativo ∩ (baja)
-- Horizontal: $(y - k)^2 = 4p(x - h)$, si p es positivo < (derecha), si es negativo > (izquierda)
+- Horizontal: $(y - k)^2 = 4p(x - h)$, si p es positivo $\subset$ (derecha), si es negativo $\supset$ (izquierda)
 
 #### Elipse
 
 Centro: $C(h, k)$
 $a > b$
-$c = \sqrt(a^2 -b^2)$ Pitágoras pero la hipotenusa es a
+$c = \sqrt(a^2 - b^2)$ Pitágoras pero la hipotenusa es a
 Excentricidad: $e = \frac{c}{a}$
 Eje mayor: $2a$
 Eje menor: $2b$
