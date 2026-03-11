@@ -1,0 +1,1 @@
+Sirve para reproducir las palabras exactas de un autor para apoyar la postura del autor del nuevo escrito.

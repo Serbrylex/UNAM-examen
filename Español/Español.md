@@ -1,0 +1,10 @@
+
+[[La comunicación]]
+[[Funciones de la lengua]]
+[[El texto]]
+[[Clasificación de los textos]]
+[[Comprensión de lectura]]
+[[Gramática]]
+[[Redacción]]
+[[Vocabulario]]
+[[Ortografía]]

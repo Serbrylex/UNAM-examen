@@ -1,0 +1,1 @@
+Es dar a conocer la opinión que el comentarista tiene de un tema. Comentar es declarar el contenido de un escrito para que se entienda con más facilidad, mientras que hacer un comentario implica explicar un suceso, un libro, una obra, para su mejor comprensión.

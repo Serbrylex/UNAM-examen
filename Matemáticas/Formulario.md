@@ -3,6 +3,19 @@ $a^{-n}=\dfrac{1}{a^n}$ (para $a\neq0$)
 
 $\sqrt[n]{a^{m}} = a^{\dfrac{m}{n}}$
 
+# Pendiente
+
+$m = \frac{\vartriangle y}{\vartriangle x}$
+pendiente perpendicular ($m_2$) dada una pendiente ($m_1$): $m_2 = -\frac{1}{m_1}$
+encontrar la función dada una pendiente y un punto: $y - y_1 = m(x - x_1)$
+distancia entre un punto y una pendiente dada la función en su forma general ($Ax + By + C$):
+$d = \frac{|Ax_0 + By_0 + C|}{\sqrt{A^2 + B^2}}$
+donde:
+$Ax_0$ es el valor que multiplica a x en la forma general por el punto x
+$By_0$ es el valor que multiplica a y en la forma general por el punto y
+$C$ el valor de C en la forma general
+A el valor que multiplica a x en la forma general
+B el valor que multiplica a y en la forma general
 # Cónicas
 
 **Formula general**: $Ax^2 + Bxy + Cy^2 + Dx + Ey +  F = 0$
@@ -67,4 +80,26 @@ SOH: $\sin(\theta) = \frac{CO}{H}$
 CAH: $\cos(\theta) = \frac{CA}{H}$
 
 TOA: $\tan(\theta) = \frac{CO}{CA}$
+
+# Derivadas
+
+Sea $u=u(x)$, $v=v(x)$ y $c$ una constante.
+
+1. $y = c \Rightarrow y' = 0$
+
+2. $y = x \Rightarrow y' = 1$
+
+3. $y = cx \Rightarrow y' = c$
+
+4. $y = x^n \Rightarrow y' = n x^{\,n-1}$
+
+5. $y = c\,u \Rightarrow y' = c\,u'$
+
+6. $y = \pm u \pm v \pm \cdots \Rightarrow y' = \pm u' \pm v' \pm \cdots$
+
+7. $y = u^n \Rightarrow y' = n u^{\,n-1} u'$
+
+8. $y = u v \Rightarrow y' = u v' + v u'$
+
+9. $y = \dfrac{u}{v} \Rightarrow y' = \dfrac{v u' - u v'}{v^2}$
 

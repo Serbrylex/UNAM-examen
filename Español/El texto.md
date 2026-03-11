@@ -1,0 +1,1 @@
+Cualquier mensaje que contenga una situación e intención comunicativa, siempre y cuando posea sentido, coherencia, adecuación e integridad.

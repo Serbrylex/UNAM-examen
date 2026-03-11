@@ -1,0 +1,1 @@
+Se notan las ideas esenciales del texto leído, debemos conservando el orden original, sin agregar opiniones o comentarios personales.

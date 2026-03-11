@@ -1,0 +1,2 @@
+Movimiento poético que se inició a finales del siglo XIX. Se caracterizó por su inclinación a lo exótico, por la fineza de la palabra y las combinaciones libres.
+Su iniciador fue el nicaragüense <u>Rubén Darío</u>, en <u>México</u> fue <u>Manuel Gutiérrez Najéda</u>. Su símbolo es la figura del cisne.

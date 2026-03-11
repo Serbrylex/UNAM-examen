@@ -1,0 +1,10 @@
+- Al principio de un escrito, y después de un punto.
+- Los nombres propios de personas, de animales y los de lugares.
+- En los sobrenombres o apodos con que se conoce a ciertas personas.
+- Los nombres de instituciones, organismos, partidos políticos o entidades.
+- Los atributos divinos: Dios, Yahvé, El Espíritu Santo.
+- Títulos de obras.
+- Números romanos.
+- Nombres de festividades: Dia de la Independencia.
+- Los nombres de las ciencias.
+- Después de dos puntos, en cartas, documentos y citas textuales.
