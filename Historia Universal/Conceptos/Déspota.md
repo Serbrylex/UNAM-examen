@@ -1,0 +1,1 @@
+Persona que trata con dureza a sus subordinados y abusa de su poder o autoridad.

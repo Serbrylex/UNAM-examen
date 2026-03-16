@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2099228e80b9c9e",
+        "id": "d8926793ae93a398",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5cd0b01a07f129",
+            "id": "d50c605606ead110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatura/Géneros y corrientes literarias/Premios Nobel Latinoamericanos.md",
+                "file": "Historia Universal/Historia Universal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Premios Nobel Latinoamericanos"
+              "title": "Historia Universal"
+            }
+          },
+          {
+            "id": "629c678119fb0a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historia Universal/Primera Guerra Mundial (1914-1918).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primera Guerra Mundial (1914-1918)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,34 +198,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a5cd0b01a07f129",
+  "active": "629c678119fb0a29",
   "lastOpenFiles": [
+    "Historia Universal/Historia Universal.md",
+    "Historia Universal/Imperialismo.md",
+    "Historia Universal/Las revoluciones burguesas/Las revoluciones burguesas.md",
+    "Historia Universal/Pensamiento y movimientos político-sociales del siglo XIX.md",
+    "Historia Universal/El conflicto entre el capitalismo.md",
+    "Historia Universal/Las revoluciones burguesas/Revolución Industrial.md",
+    "Historia Universal/Las revoluciones burguesas/Antecedentes.md",
+    "Historia Universal/Conceptos/Racionalismo.md",
+    "Historia Universal/Las revoluciones burguesas/Capitalismo.md",
+    "Historia Universal/Conceptos/Dialéctica.md",
+    "Historia Universal/Conceptos/Déspota.md",
+    "Historia Universal/Las revoluciones burguesas/La Revolución francesa y el imperio napoleónico.md",
+    "Historia Universal/Las revoluciones burguesas/La independencia de Hispanoamérica.md",
+    "Historia Universal/Las revoluciones burguesas/Independencia de las Trece Colonias (Estados Unidos).md",
+    "Historia Universal/Fundamentos.md",
+    "Historia Universal/Conceptos",
+    "Historia Universal/Las revoluciones burguesas",
+    "Matemáticas/Formulario.md",
+    "Geografía/Geografía.md",
+    "Física/Formulario.md",
+    "Matemáticas/Matemáticas.md",
+    "Historia Universal/El mundo actual.md",
+    "Historia Universal/Segunda Guerra Mundial (1939-1945).md",
+    "Historia Universal/El mundo entre guerras.md",
+    "Historia Universal/Primera Guerra Mundial (1914-1918).md",
+    "Literatura/Géneros y corrientes literarias/Premios Nobel Latinoamericanos.md",
     "Literatura/Géneros y corrientes literarias/Literatura contemporánea.md",
     "Literatura/Géneros y corrientes literarias/Géneros literarios.md",
-    "Literatura/Géneros y corrientes literarias/El boom latinoamericano.md",
-    "Literatura/Literatura.md",
-    "Literatura/Registro de fuentes/Ficha de trabajo.md",
-    "Literatura/Registro de fuentes/Ficha hemerográfica.md",
-    "Literatura/Registro de fuentes/Ficha bibliográfica.md",
-    "Literatura/Redacción y técnicas de investigación documental/Comentario.md",
-    "Literatura/Redacción y técnicas de investigación documental/Cita textual.md",
-    "Literatura/Redacción y técnicas de investigación documental/Paráfrasis.md",
-    "Literatura/Redacción y técnicas de investigación documental/Resumen.md",
-    "Literatura/Géneros y corrientes literarias/Premios Nobel Latinoamericanos.md",
-    "Literatura/El texto/Texto narrativo.md",
-    "Literatura/Géneros y corrientes literarias/Corrientes literarias.md",
-    "Literatura/Géneros y corrientes literarias/Vanguardias.md",
-    "Literatura/Géneros y corrientes literarias/Modernismo.md",
-    "Literatura/Géneros y corrientes literarias/Realismo.md",
-    "Literatura/Géneros y corrientes literarias/Romanticismo.md",
-    "Diccionario.md",
-    "Literatura/El texto/Texto poético.md",
-    "Literatura/El texto/Texto periodístico.md",
-    "Matemáticas/Formulario.md",
-    "Español/Funciones de la lengua.md",
-    "Literatura/El texto/Texto dramático.md",
-    "Español/El texto.md",
-    "Literatura/El texto/Propiedades del texto.md",
     "Literatura/Registro de fuentes",
     "Literatura/Redacción y técnicas de investigación documental",
     "Literatura/Géneros y corrientes literarias",
@@ -219,8 +236,6 @@
     "Historia de México",
     "Biología",
     "Química",
-    "Física",
-    "Literatura",
     "Imagenes/b91bf74c-7a5c-4709-9b26-2420a7161724_w1080_h608.avif",
     "Imagenes/ecuador-and-greenwich-with-hemispheres--t3chat--1.jpg",
     "Imagenes/enlarged-and-enhanced-image--t3chat--1.jpg",

@@ -1,0 +1,1 @@
+Corriente filosófica que considera que la razón es la base del conocimiento y que la verdad se puede alcanzar a través de la razón.

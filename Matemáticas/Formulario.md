@@ -3,6 +3,7 @@ $a^{-n}=\dfrac{1}{a^n}$ (para $a\neq0$)
 
 $\sqrt[n]{a^{m}} = a^{\dfrac{m}{n}}$
 
+$x = \frac{-b\pm \sqrt{b^2 - 4ac}}{2a}$
 # Pendiente
 
 $m = \frac{\vartriangle y}{\vartriangle x}$
