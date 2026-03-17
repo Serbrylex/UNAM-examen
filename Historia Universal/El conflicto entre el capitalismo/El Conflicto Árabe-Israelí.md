@@ -1,0 +1,4 @@
+- **Creación de Israel (1948):** Tras una resolución de la ONU, David Ben Gurión (primer ministro) proclama el Estado de Israel en territorio palestino.
+- **Tensión regional:** Desde su creación, Israel fue rechazado por los países árabes (quienes reprobaron la expulsión violenta de los palestinos), convirtiendo la región en un polvorín.
+- **Proxy war (Guerra indirecta):** Israel se convirtió en el gran aliado de Estados Unidos en la región, mientras que los países árabes se acercaron a la URSS.
+- **Guerra de los Seis Días (1967):** Conflicto relámpago donde Israel derrotó a una coalición árabe y expandió su territorio.

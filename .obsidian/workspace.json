@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "d8926793ae93a398",
+        "id": "d94bd7cc4a898055",
         "type": "tabs",
         "children": [
           {
-            "id": "d50c605606ead110",
+            "id": "490c363afa29eaa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia Universal/Historia Universal.md",
+                "file": "Historia Universal/El mundo actual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia Universal"
+              "title": "El mundo actual"
             }
           },
           {
-            "id": "629c678119fb0a29",
+            "id": "99f79e74685624fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia Universal/Primera Guerra Mundial (1914-1918).md",
+                "file": "Historia Universal/Conceptos/Globalización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primera Guerra Mundial (1914-1918)"
+              "title": "Globalización"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,36 +197,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "629c678119fb0a29",
+  "active": "490c363afa29eaa0",
   "lastOpenFiles": [
     "Historia Universal/Historia Universal.md",
+    "Historia Universal/Conceptos/Globalización.md",
+    "Historia Universal/El mundo actual.md",
+    "Historia Universal/El conflicto entre el capitalismo/El fin de la Guerra Fría y la caída de la URSS.md",
+    "Historia Universal/El conflicto entre el capitalismo/El conflicto entre el capitalismo.md",
+    "Historia Universal/El conflicto entre el capitalismo/Descolonización y el Tercer Mundo.md",
+    "Historia Universal/El conflicto entre el capitalismo/El Conflicto Árabe-Israelí.md",
+    "Historia Universal/El conflicto entre el capitalismo/La Guerra Fría.md",
+    "Historia Universal/El conflicto entre el capitalismo",
+    "Historia Universal/Segunda Guerra Mundial (1939-1945).md",
+    "Historia Universal/Primera Guerra Mundial (1914-1918).md",
+    "Historia Universal/Conferencia de Yalta.md",
+    "Historia Universal/El mundo entre guerras.md",
+    "Historia Universal/Conceptos/Totalitarismo.md",
+    "Geografía/Geografía.md",
+    "Geografía/Tips geografía.md",
+    "Geografía/Fundamentos/Husos horarios.md",
+    "Historia Universal/Fundamentos.md",
+    "Geografía/Fundamentos/Conceptos y herramientas.md",
+    "Geografía/Geografía Física/El relieve.md",
+    "Geografía/Geografía Física/Distribución de los minerales preciosos, industriales y energéticos.md",
+    "Historia Universal/Las revoluciones burguesas/La Revolución francesa y el imperio napoleónico.md",
     "Historia Universal/Imperialismo.md",
     "Historia Universal/Las revoluciones burguesas/Las revoluciones burguesas.md",
     "Historia Universal/Pensamiento y movimientos político-sociales del siglo XIX.md",
-    "Historia Universal/El conflicto entre el capitalismo.md",
     "Historia Universal/Las revoluciones burguesas/Revolución Industrial.md",
     "Historia Universal/Las revoluciones burguesas/Antecedentes.md",
-    "Historia Universal/Conceptos/Racionalismo.md",
-    "Historia Universal/Las revoluciones burguesas/Capitalismo.md",
-    "Historia Universal/Conceptos/Dialéctica.md",
-    "Historia Universal/Conceptos/Déspota.md",
-    "Historia Universal/Las revoluciones burguesas/La Revolución francesa y el imperio napoleónico.md",
-    "Historia Universal/Las revoluciones burguesas/La independencia de Hispanoamérica.md",
-    "Historia Universal/Las revoluciones burguesas/Independencia de las Trece Colonias (Estados Unidos).md",
-    "Historia Universal/Fundamentos.md",
     "Historia Universal/Conceptos",
     "Historia Universal/Las revoluciones burguesas",
-    "Matemáticas/Formulario.md",
-    "Geografía/Geografía.md",
-    "Física/Formulario.md",
-    "Matemáticas/Matemáticas.md",
-    "Historia Universal/El mundo actual.md",
-    "Historia Universal/Segunda Guerra Mundial (1939-1945).md",
-    "Historia Universal/El mundo entre guerras.md",
-    "Historia Universal/Primera Guerra Mundial (1914-1918).md",
-    "Literatura/Géneros y corrientes literarias/Premios Nobel Latinoamericanos.md",
-    "Literatura/Géneros y corrientes literarias/Literatura contemporánea.md",
-    "Literatura/Géneros y corrientes literarias/Géneros literarios.md",
     "Literatura/Registro de fuentes",
     "Literatura/Redacción y técnicas de investigación documental",
     "Literatura/Géneros y corrientes literarias",
@@ -235,7 +235,6 @@
     "Historia Universal",
     "Historia de México",
     "Biología",
-    "Química",
     "Imagenes/b91bf74c-7a5c-4709-9b26-2420a7161724_w1080_h608.avif",
     "Imagenes/ecuador-and-greenwich-with-hemispheres--t3chat--1.jpg",
     "Imagenes/enlarged-and-enhanced-image--t3chat--1.jpg",

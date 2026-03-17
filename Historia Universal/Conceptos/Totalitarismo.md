@@ -1,0 +1,1 @@
+Forma de gobierno donde el Estado controla todo el sistema político, económico, cultural y social de un país.

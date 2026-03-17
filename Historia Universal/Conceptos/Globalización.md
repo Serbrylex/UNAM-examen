@@ -1,0 +1,1 @@
+Es un proceso histórico de integración mundial en los ámbitos económico, político, tecnológico, social y cultural. Básicamente, es la creciente interdependencia y comunicación entre los distintos países del mundo, lo que unifica sus mercados, sociedades y culturas (convirtiendo al mundo en una "aldea global").
