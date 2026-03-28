@@ -82,6 +82,10 @@ CAH: $\cos(\theta) = \frac{CA}{H}$
 
 TOA: $\tan(\theta) = \frac{CO}{CA}$
 
+Cateto opuesto: Es el cateto enfrente del ángulo.
+Cateto adyacente: Es el cateto que forma parte del ángulo.
+![[Pasted image 20260318115847.png]]
+
 # Derivadas
 
 Sea $u=u(x)$, $v=v(x)$ y $c$ una constante.

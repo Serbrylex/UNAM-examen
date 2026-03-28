@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d94bd7cc4a898055",
+        "id": "bbf771d27e402030",
         "type": "tabs",
         "children": [
           {
-            "id": "490c363afa29eaa0",
+            "id": "d9ea040e63105492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia Universal/El mundo actual.md",
+                "file": "Índice basado en la guía UNAM AREA 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El mundo actual"
-            }
-          },
-          {
-            "id": "99f79e74685624fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia Universal/Conceptos/Globalización.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Globalización"
+              "title": "Índice basado en la guía UNAM AREA 1"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Lázaro Cárdenas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,44 +183,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "490c363afa29eaa0",
+  "active": "4566ca5f7624dbdd",
   "lastOpenFiles": [
-    "Historia Universal/Historia Universal.md",
-    "Historia Universal/Conceptos/Globalización.md",
-    "Historia Universal/El mundo actual.md",
-    "Historia Universal/El conflicto entre el capitalismo/El fin de la Guerra Fría y la caída de la URSS.md",
-    "Historia Universal/El conflicto entre el capitalismo/El conflicto entre el capitalismo.md",
-    "Historia Universal/El conflicto entre el capitalismo/Descolonización y el Tercer Mundo.md",
-    "Historia Universal/El conflicto entre el capitalismo/El Conflicto Árabe-Israelí.md",
-    "Historia Universal/El conflicto entre el capitalismo/La Guerra Fría.md",
-    "Historia Universal/El conflicto entre el capitalismo",
-    "Historia Universal/Segunda Guerra Mundial (1939-1945).md",
+    "Diccionario.md",
+    "Historia de México/Historia de México.md",
+    "Historia de México/México contemporáneo/México contemporáneo.md",
+    "Historia de México/Plan de Ayutla.md",
+    "Historia de México/Política de Unidad Nacional.md",
+    "Historia de México/La reconstrucción nacional/La reconstrucción nacional.md",
+    "Historia de México/Presidentes de México/Presidentes de México.md",
+    "Historia de México/Presidentes de México",
+    "Historia de México/Paz Porfirista.md",
+    "Historia de México/Leyes de Reforma.md",
+    "Historia de México/La Revolución Mexicana/La Revolución Mexicana.md",
+    "Historia de México/Tratado de Bucareli.md",
+    "Historia de México/Plan de Agua Prieta.md",
+    "Historia de México/Tratados de Teoloyucan.md",
+    "Historia de México/Plan de Guadalupe.md",
+    "Historia de México/Pacto de la Ciudadela.md",
+    "Historia de México/Pacto de la Embajada.md",
+    "Historia de México/Plan de Ayala.md",
+    "Historia de México/Tratados de Ciudad Juárez.md",
+    "Historia de México/La Junta de Notables.md",
     "Historia Universal/Primera Guerra Mundial (1914-1918).md",
-    "Historia Universal/Conferencia de Yalta.md",
     "Historia Universal/El mundo entre guerras.md",
-    "Historia Universal/Conceptos/Totalitarismo.md",
-    "Geografía/Geografía.md",
-    "Geografía/Tips geografía.md",
-    "Geografía/Fundamentos/Husos horarios.md",
-    "Historia Universal/Fundamentos.md",
-    "Geografía/Fundamentos/Conceptos y herramientas.md",
-    "Geografía/Geografía Física/El relieve.md",
-    "Geografía/Geografía Física/Distribución de los minerales preciosos, industriales y energéticos.md",
-    "Historia Universal/Las revoluciones burguesas/La Revolución francesa y el imperio napoleónico.md",
-    "Historia Universal/Imperialismo.md",
-    "Historia Universal/Las revoluciones burguesas/Las revoluciones burguesas.md",
-    "Historia Universal/Pensamiento y movimientos político-sociales del siglo XIX.md",
-    "Historia Universal/Las revoluciones burguesas/Revolución Industrial.md",
-    "Historia Universal/Las revoluciones burguesas/Antecedentes.md",
-    "Historia Universal/Conceptos",
-    "Historia Universal/Las revoluciones burguesas",
-    "Literatura/Registro de fuentes",
-    "Literatura/Redacción y técnicas de investigación documental",
-    "Literatura/Géneros y corrientes literarias",
-    "Literatura/El texto",
-    "Historia Universal",
-    "Historia de México",
-    "Biología",
+    "Historia de México/La reconstrucción nacional.md",
+    "Historia de México/El Porfiriato/El Porfiriato.md",
+    "Historia de México/Plan de San Luis.md",
+    "Historia de México/Entrevista Díaz-Creelman.md",
+    "Historia de México/Plan de la Noria.md",
+    "Imagenes/Pasted image 20260326074207.png",
+    "Historia de México/México independiente",
+    "Historia de México/México contemporáneo",
+    "Historia de México/La Revolución Mexicana",
+    "Historia de México/La reforma liberal y la resistencia de la Republica",
+    "Historia de México/La reconstrucción nacional",
+    "Historia de México/El Porfiriato",
+    "Historia de México/El movimiento de Independencia de la Nueva España",
+    "Historia de México/La Nueva España",
+    "Historia de México/Conceptos",
+    "Imagenes/Pasted image 20260318115847.png",
     "Imagenes/b91bf74c-7a5c-4709-9b26-2420a7161724_w1080_h608.avif",
     "Imagenes/ecuador-and-greenwich-with-hemispheres--t3chat--1.jpg",
     "Imagenes/enlarged-and-enhanced-image--t3chat--1.jpg",
@@ -242,8 +230,6 @@
     "Imagenes/9fcd7885a2a782c2bd67e8ba723fc922.webp",
     "Imagenes/Taller-biomas-del-mundo.webp",
     "Imagenes/koppen.jpg",
-    "Imagenes/evaporacion-3.webp",
-    "Imagenes/republica-montanas.jpg",
-    "Imagenes/mapamundininos_5.jpg"
+    "Imagenes/evaporacion-3.webp"
   ]
 }

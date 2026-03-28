@@ -1,0 +1,1 @@
+Las culturas prehispánicas son aquellas civilizaciones americanas que existieron antes de la conquista y colonización española. Abarca pueblos como mayas, aztecas e incas, destacados por sus impresionantes pirámides, escritura, agricultura avanzada (maíz), calendarios y organización social teocrática.

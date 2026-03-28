@@ -1,0 +1,3 @@
+**Fecha:** 14 de mayo de 1836
+**Firmantes:** Antonio López de Santa Anna (mientras estaba prisionero tras la batalla de San Jacinto) y el gobierno texano (David G. Burnet).
+**Contexto y consecuencias:** Documentos en los que Santa Anna aceptaba retirar las tropas mexicanas y, de manera secreta, se comprometía a reconocer la independencia de la República de Texas a cambio de su vida y libertad. El gobierno de México nunca reconoció la validez de estos tratados al argumentar que fueron firmados bajo coacción.

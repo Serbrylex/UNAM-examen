@@ -2,7 +2,7 @@ El objeto de estudio de la geografía se divide en:
 
 ### Hechos Geográficos
 
-Transcurren lentamente y a lo largo de una vida humana pareciera que no se modifican, como la formación de continentes, un volcan o una selva.
+Transcurren lentamente y a lo largo de una vida humana pareciera que no se modifican, como la formación de continentes, un volcán o una selva.
 
 ### Fenómenos Geográficos
 
