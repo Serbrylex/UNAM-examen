@@ -1,6 +1,6 @@
 ### [[Antecedentes]]: Mesoamérica, áreas culturales
 ### Descubrimiento y expediciones
-En 1492, la reina Isabel de Castilla patrocinó los viajes de Cristóbal Colón, lo que derivó en el descubrimiento de América y el posterior fortalecimiento del Imperio español. 
+En 1492, la reina Isabel de Castilla patrocinó los viajes de Cristóbal Colón, lo que derivó en el descubrimiento de América dos meses más tarde y el posterior fortalecimiento del Imperio español. 
 
 En 1503 se creó la **Casa de Contratación de Sevilla** para regular asuntos coloniales, comercio, navegación en América, otorgar permisos de viajes, exploraciones y autorizaciones para residir en la Nueva España.
 

@@ -16,19 +16,14 @@ Hay dos fábricas principales:
 - Mitocondria (el horno celular): Quema glucosa para dar energía a casi todos los seres vivos. Tiene una membrana interna muy arrugada llamada crestas y un jugo interno llamado matriz.
 - Cloroplasto (el panel solar, solo en plantas): Atrapa la luz para crear alimento. Por dentro parece que tiene monedas apiladas.
 	- Una moneda es un Tilacoide
-	- Una pula de monedas es una Grana
+	- Una pila de monedas es una Grana
 	- El líquido donde flotan es el Estroma
 
 2. El Metabolismo y la Fotosíntesis
 Intuición: El metabolismo es como jugar con piezas de lego. Solo hay dos cosas que puedes hacer: construir o destruir.
 - Anabolismo (A de Armar): Tomas piezas pequeñas y construyes algo grande. Esto gasta energía.
-- Catabolismo (C de Cortar): Tomas algo grande y lo romper en pedazos. Esto libera energía.
+- Catabolismo (C de Cortar): Tomas algo grande y lo rompes en pedazos. Esto libera energía.
 La fotosíntesis es un proceso anabólico. La planta toma luz solar, agua y un gas pobre en energía (CO2), los "arma" y crea un bloque de energía grande llamado Glucosa (un azúcar).
-
-3. Reproducción Celular: Mitosis y Meiosis
-Intuición: Las células necesitan multiplicarse, pero dependen de que tipo de célula sean.
-- Mitosis (Clonación corporal): Si te cortas, la piel necesita células idénticas. La célula copia sus instrucciones (ADN) y se divide en dos idénticas. Las fases tienen un orden lógico: Profase (preparar), metafase (medio o alinearse al centro), anafase (apagarse o separarse), telofase (terminar o dividirse). La mnemotecnia es Prometeo Mete Ana en la Tele o PMAT.
-- Meiosis (Hacer bebés): Los humanos tenemos 46 cromosomas (nuestros manuales de instrucciones). Si un espermatozoide de 46 se une a un óvulo de 46, el bebé tendría 92 y sería un monstruo mutante. Por eso, los gametos (espermatozoides y óvolos) se dividen a la mitad para tener solo 23 cromosomas. Al unirse (23 pares), crean un humano normal de 46 cromosomas.
 
 4. Genética de Mendel
 Intuición: En la reproducción por meiosis, heredamos dos versiones de cada gen (una de mamá y una de papá). A veces uno grita más fuerte que el otro.

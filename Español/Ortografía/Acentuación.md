@@ -39,7 +39,7 @@ Los monosílabos no se acentúan, incluso los verbales: fue, dio, vio, fe, fui..
 
 La conjunción <u>o</u> no se acentúa.
 
-### Acento diacritico
+### Acento diacrítico
 
 Se coloca en algunas palabras para distinguir el significado y la función de otras palabras de igual escritura, pero distinto significado.
 

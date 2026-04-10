@@ -26,7 +26,7 @@ Tras la caída del imperio, se proclamó a Guadalupe Victoria como el primer pre
 - **Centroamérica (1823):** Guatemala y Honduras se separan de México tras la caída de Iturbide.
 - **Texas (1836):** Se separa de México mediante el [[Tratado de Velasco]].
 - **Guerra contra Estados Unidos (1846 - 1848):** Inició por conflictos fronterizos territoriales. Concluyó con el **Tratado de Guadalupe-Hidalgo**, donde México cedió Nuevo México, Utah, Arizona, Alta California y Texas, fijando el Río Bravo como frontera a cambio de una indemnización de 15 millones de dólares.
-- **La Mesilla (1853):** Durante su última dictadura, Santa Anna vendió este territorio a EE. UU. por 7 millones de pesos.
+- **La Mesilla (1853):** Durante su última dictadura, Santa Anna vendió este territorio a EE. UU. por 7 millones de pesos. El tratado se llamó **Tratado de Mesilla** (conocido en Estados Unidos como el _Gadsden Purchase_).
 
 ### La situación económica
 El inicio de la vida independiente estuvo marcado por una profunda crisis:

@@ -1,6 +1,6 @@
 ### Antecedentes y Causas del Movimiento
 
-El estallido de la Independencia fue impulsado por el anhelo de soberanía de los criollos (influenciados por la ideología liberal ilustrada y el nacionalismo) ante los privilegios de los peninsulares. El antecedente inmediato fue la **Conspiración de Querétaro**, en la que participaron Josefa Ortiz de Domínguez, Miguel Domínguez, Ignacio Allende, Juan Aldama, Leona Vicario y Miguel Hidalgo, quienes inicialmente buscaban tomar el poder en nombre de Fernando VII.
+El estallido de la Independencia fue impulsado por el anhelo de soberanía de los criollos (influenciados por la ideología liberal ilustrada y el nacionalismo) ante los privilegios de los peninsulares. El antecedente inmediato fue la **[[Conspiración de Querétaro]]**, en la que participaron Josefa Ortiz de Domínguez, Miguel Domínguez, Ignacio Allende, Juan Aldama, Leona Vicario y Miguel Hidalgo, quienes inicialmente buscaban tomar el poder en nombre de Fernando VII.
 
 **Causas Externas:**
 - El pensamiento de la [[Ilustración]] y [[Las revoluciones burguesas]] como precedente.

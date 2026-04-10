@@ -24,7 +24,13 @@ La síntesis de proteínas ocurre en dos grandes etapas:
 
 ### División celular
 
+Intuición: Las células necesitan multiplicarse, pero dependen de que tipo de célula sean.
+- Mitosis (Clonación corporal): Si te cortas, la piel necesita células idénticas. La célula copia sus instrucciones (ADN) y se divide en dos idénticas. Las fases tienen un orden lógico: Profase (preparar), metafase (medio o alinearse al centro), anafase (apagarse o separarse), telofase (terminar o dividirse). La mnemotecnia es Prometeo Mete Ana en la Tele o PMAT.
+- Meiosis (Hacer bebés): Los humanos tenemos 46 cromosomas (nuestros manuales de instrucciones). Si un espermatozoide de 46 se une a un óvulo de 46, el bebé tendría 92 y sería un monstruo mutante. Por eso, los gametos (espermatozoides y óvolos) se dividen a la mitad para tener solo 23 cromosomas. Al unirse (23 pares), crean un humano normal de 46 cromosomas.
+
 **Mitosis**
+Mito viene del griego mitos, que significa "hilo". Se llama así porque, al observarse bajo el microscopio, los cromosomas en división parecen hilos que se están separando. Es una copia exacta.
+
 La mitosis la realizan las células somáticas: cuando una se divide, da origen a dos células hijas que poseen información genética idéntica a la original (diploides, 2n). Todos los procesos de crecimiento, reparación de tejidos, desarrollo y reemplazo de células muertas que ocurren en los seres vivos pluricelulares son posibles gracias a la mitosis. En organismos unicelulares, esta división equivale a su mecanismo de reproducción. Se divide en cuatro fases: Profase, Metafase, Anafase y Telofase.
 
 - Profase: La cromatina se enrolla para formar cromosomas visibles; la envoltura nuclear y el nucléolo desaparecen. Los cromosomas están formados por dos cromátidas hermanas unidas por un centrómero. En células animales, los centriolos se mueven hacia los polos opuestos de la célula, formando un huso acromático (o mitótico) y una estructura en forma de estrella llamada áster. Las células vegetales carecen de centriolos y áster, pero sí presentan huso acromático.
@@ -33,6 +39,8 @@ La mitosis la realizan las células somáticas: cuando una se divide, da origen 
 - Telofase: Se reintegra la membrana nuclear y el nucléolo. Se lleva a cabo la citocinesis (proceso de división del citoplasma de una célula en dos partes, dando lugar a las dos células hijas).
 
 ##### Meiosis
+Meio viene del griego meioo, que significa "disminuir" o "hacer más pequeño". Se llama así porque este proceso reduce (disminuye a la mitad) el número de cromosomas de la célula original para crear células sexuales (espermatozoides u óvulos).
+
 La meiosis es una división nuclear donde se reduce el número de cromosomas, produciendo cuatro células hijas con sólo la mitad de la información genética (células haploides, n). Estas células no son genéticamente idénticas entre sí, lo que permite la recombinación (intercambio genético) de cromosomas maternos y paternos, proporcionando una gran variabilidad a las especies.
 Se efectúa por medio de dos divisiones nucleares, llamadas primera y segunda división meiótica, cada una de las cuales consta de cuatro fases:
 
