@@ -19,6 +19,7 @@ Como reflejo del realismo literario se derivaron:
 
 Realismo:
 - Benito Pérez Galdós: *Fortunata y Jacinta*; *Marianela*.
+- Federico Gamboa.
 - Honoré de Balzac: *Eugénie Grandet*; *La Comedia Humana*.
 - Charles Dickens: *Oliver Twist*.
 - Fiódor Dostoievski: *Crimen y castigo*.

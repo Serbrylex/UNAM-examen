@@ -1,0 +1,3 @@
+Error de Carranza (1917): Venustiano Carranza creía que la educación debía ser un asunto local. Así que eliminó la Secretaria de Institución Pública federal y le dejó el paquete a los municipios. Fue un desastre; no había dinero, las escuelas cerraron y el analfabetismo se disparo.
+
+La solución de Obregón (1921): Álvaro Obregón, entendió que para unificar a un país destrozado por la Revolución, el Estado necesita controlar la educación. Modificó la Constitución, "restituyo" el poder federal sobre la educación creando la SEP, y puso al mando a José Vasconcelos.

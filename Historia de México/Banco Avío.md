@@ -1,0 +1,3 @@
+Avío significa provisión, preparación o adelanto de dinero. El Banco Avío fue creado por el ministro Lucas Alamán, mientras Bustamante era presidente en 1830. Post Revolución.
+
+El banco Avío era un fondo de Venture Capital (capital semilla) creado por el estado para ayudar a las empresas emergentes a importar maquinaria del extranjero durante la revolución industrial, para pasar de ser un país que solo importa materia prima. Este proyecto fracaso por la falta de conocimiento en las tecnologías importadas y la falta de refacciones.

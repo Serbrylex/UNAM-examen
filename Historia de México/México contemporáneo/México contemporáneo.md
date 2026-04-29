@@ -15,7 +15,7 @@
 Auge económico e industrial de 30 años patrocinado por un Estado nacionalista y proteccionista. Con recursos propios derivados de la exportación y el papel del Banco de México, se costeó infraestructura urbana, eléctrica y de comunicaciones sin necesidad de grandes créditos externos.
 
 #### Fase 1: Política de Sustitución de Importaciones (1940 - 1952)
-*Objetivo: Industrialización a gran escala y crecimiento del mercado interno ("hacia adentro"). El Estado aplica aranceles para proteger al empresario mexicano y fomenta fabricar en el país lo que antes se compraba al extranjero ("Lo Hecho en México"), a costa del abandono crónico del campo.*
+Objetivo: Industrialización a gran escala y crecimiento del mercado interno ("hacia adentro"). El Estado aplica aranceles para proteger al empresario mexicano y fomenta fabricar en el país lo que antes se compraba al extranjero ("Lo Hecho en México"), a costa del abandono crónico del campo.
 
 **Gobierno de Manuel Ávila Camacho (1940 - 1946)**
 - Implementó la llamada **[[Política de Unidad Nacional]]**.
@@ -30,7 +30,7 @@ Auge económico e industrial de 30 años patrocinado por un Estado nacionalista 
 - **Economía y comunicaciones:** Albores de la industria televisiva comercial. Fusión de empresas de telecomunicaciones para crear **Telmex**. Creación de Diesel Nacional (DINA) y Petroquímica Nacional.
 
 #### Fase 2: El Desarrollo Estabilizador (1952 - 1970)
-*Estrategia para frenar las devaluaciones, estabilizar la reserva monetaria, contrarrestar el déficit y fortalecer el poder adquisitivo del trabajador subsidiando servicios (luz, agua, transporte).*
+Estrategia para frenar las devaluaciones, estabilizar la reserva monetaria, contrarrestar el déficit y fortalecer el poder adquisitivo del trabajador subsidiando servicios (luz, agua, transporte).
 
 **Gobierno de Adolfo Ruiz Cortines (1952 - 1958)**
 - **Economía:** Tras la devaluación de 1954 (el dólar pasó de 8.65 a 12.50 pesos), implementó una estricta política de austeridad y control de la inflación.
@@ -52,7 +52,7 @@ Auge económico e industrial de 30 años patrocinado por un Estado nacionalista 
 ---
 
 ### II. Gobiernos de la crisis (1970 - 1982)
-*Fin del Milagro Mexicano. La deuda externa se dispara, el PIB cae, la inflación destruye el poder adquisitivo y se eleva el desempleo y la inconformidad social.*
+Fin del Milagro Mexicano. La deuda externa se dispara, el PIB cae, la inflación destruye el poder adquisitivo y se eleva el desempleo y la inconformidad social.
 
 **Gobierno de Luis Echeverría Álvarez (1970 - 1976)**
 - **Política económica:** Implementó el modelo de **Desarrollo Compartido**. Mayor intervención del Estado en la economía mediante la creación masiva de empresas paraestatales y aumento de impuestos.
@@ -66,7 +66,7 @@ Auge económico e industrial de 30 años patrocinado por un Estado nacionalista 
 ---
 
 ### III. Apertura Comercial y Neoliberalismo (1982 - 2000)
-*Fase de los presidentes tecnócratas (Miguel de la Madrid, Carlos Salinas, Ernesto Zedillo) que buscaron insertar a México en la economía global.*
+Fase de los presidentes tecnócratas (Miguel de la Madrid, Carlos Salinas, Ernesto Zedillo) que buscaron insertar a México en la economía global.
 - Reducción drástica de la participación económica del Estado (venta y **privatización** de cientos de empresas paraestatales).
 - Fomento a la inversión de capital privado y extranjero.
 - Apertura comercial a través del fomento a tratados regionales de libre comercio (como el TLCAN en 1994).

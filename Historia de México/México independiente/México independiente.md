@@ -16,6 +16,7 @@ Tras la caída del imperio, se proclamó a Guadalupe Victoria como el primer pre
 
 **3. Inestabilidad Política (1828 - 1855)**
 - **1828-1829:** Vicente Guerrero desplaza a Gómez Pedraza por las armas y asume la presidencia. A finales de 1829, el vicepresidente Anastasio Bustamante lo traiciona, lo manda a aprehender (con ayuda del genovés Francisco Picaluga) y lo fusila, asumiendo el poder de 1830 a 1832.
+- 1830: Lucas Alamán crea el [[Banco Avío]] como intento de mejorar la industrialización del país.
 - **1833:** Santa Anna es designado presidente, pero se ausenta, dejando al liberal radical Valentín Gómez Farías a cargo (quien intenta impulsar la educación laica).
 - **1833 a 1855:** Santa Anna gobierna de forma intermitente e irregular hasta en 11 ocasiones, variando su postura entre liberal y conservador, hasta ser derrocado definitivamente por el [[Plan de Ayutla]].
 

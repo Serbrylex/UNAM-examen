@@ -27,3 +27,14 @@
 4.  **Ideas Complementarias (Detalles extra, contexto o conclusiones menores):**
     *   El reciclaje actual es insuficiente porque la producción sigue subiendo.
     *   La recomendación específica de reducir los plásticos "de un solo uso".
+
+### Ejemplos con preguntas:
+
+- [[Autismo]]
+- [[Cuando el acúmulo de grasa es un problema]]
+- [[Cuando la astronomía pudo cambiar el rumbo del mundo]]
+- [[DARWIN TENÍA RAZÓN - LA ENDOGAMIA PERJUDICÓ A SU ESTIRPE]]
+- [[Los huesos]]
+- [[MARGARITA O EL PODER DE LA FARMACOPEA]]
+- [[Nuevas lecciones de historia]]
+- [[Vampirismo]]

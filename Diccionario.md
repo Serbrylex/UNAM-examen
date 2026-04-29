@@ -45,3 +45,5 @@ Abarca: Calzado rustico
 Abarquillarse: Curvarse
 Abarrote: Tienda de comestibles
 Abarrotero, ra: Persona que tiene un ultramarino
+Destituir: Quitar a alguien de su cargo.
+Restituir: Devolver a alguien a su cargo, o restaurar algo a su estado original.

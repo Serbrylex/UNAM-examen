@@ -2,7 +2,7 @@
 
 La célula es la unidad de estructura y función de todo ser vivo.
 
-Las células por primera vez fueron descritas por Leeuwenhoek, quien con ayuda de lentes de aumento que construyó, descubrió bacterias y espermatozoides. A partir de las observaciones que realizó Robert Hooke en cortes de corcho, encontró pequeñas celdillas a las que les dio el nombre de células.
+Las células por primera vez fueron descritas por Leeuwenhoek, quien con ayuda de lentes de aumento que construyó, descubrió bacterias y espermatozoides. A partir de las observaciones que realizó Robert Hooke en cortes de corcho, encontró pequeñas celdillas a las que les dio el nombre de células porque se parecían a la corteza de un árbol (celda -> célula).
 
 Formulación y postulados de la teoría celular
 A mediados del siglo XIX, M. Schleiden señaló que la célula era la unidad estructural en plantas; T. Schwann mencionó que la célula era la unidad estructural en animales y R. Virchow explicó que toda célula proviene de otra célula. Estos tres científicos construyeron la teoría celular:

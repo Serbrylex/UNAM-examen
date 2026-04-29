@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "b45fd08b8377ced2",
+        "id": "5d1b97b41ee60d17",
         "type": "tabs",
         "children": [
           {
-            "id": "7b13d9de04e507e5",
+            "id": "de3e2faf98209ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografía/Estructuras de Mercado.md",
+                "file": "Índice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estructuras de Mercado"
+              "title": "Índice"
+            }
+          },
+          {
+            "id": "59eb8199a828195d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historia de México/Historia de México.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Historia de México"
+            }
+          },
+          {
+            "id": "0aec849ecdfea43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historia de México/México contemporáneo/México contemporáneo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "México contemporáneo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lázaro Cárdenas",
+                "query": "Robert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,53 +212,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b13d9de04e507e5",
+  "active": "0aec849ecdfea43f",
   "lastOpenFiles": [
-    "Geografía/Estructuras de Mercado.md",
-    "Matemáticas/Formulario.md",
     "Historia de México/Historia de México.md",
-    "Español/Español.md",
-    "Español/Ortografía/Ortografía.md",
-    "Historia de México/Planes/Plan de San Luis.md",
-    "Historia de México/Planes/Plan de Ayutla.md",
-    "Historia de México/Planes/Plan de Ayala.md",
-    "Historia de México/Planes/Plan de Agua Prieta.md",
-    "Literatura/Registro de fuentes/Ficha de trabajo.md",
-    "Español/Ortografía/Acentuación.md",
-    "Español/Gramática.md",
-    "Química/Química.md",
-    "Historia de México/Planes/Plan de Guadalupe.md",
-    "Historia de México/México contemporáneo/México contemporáneo.md",
-    "Historia de México/La reconstrucción nacional/La reconstrucción nacional.md",
+    "Matemáticas/Formulario.md",
+    "Historia Universal/Historia Universal.md",
+    "Física/Formulario.md",
+    "Biología/Célula.md",
+    "Física/Principio de Pascal.md",
+    "Imagenes/Notas/Pasted image 20260428174244.png",
+    "Física/Física.md",
+    "tes.md",
+    "Geografía/Geografía.md",
+    "Índice.md",
     "Literatura/Literatura.md",
-    "Historia de México/El Porfiriato/El Porfiriato.md",
-    "Historia de México/La reforma liberal y la resistencia de la Republica/La reforma liberal y la resistencia de la Republica.md",
-    "Historia de México/México independiente/México independiente.md",
-    "Historia de México/El movimiento de Independencia de la Nueva España/El movimiento de Independencia de la Nueva España.md",
-    "Historia de México/Planes/Plan de Iguala.md",
-    "Historia de México/Planes/Conspiración de Querétaro.md",
-    "Historia de México/La Nueva España/La Nueva España.md",
-    "Historia de México/La Nueva España/Antecedentes.md",
-    "Historia de México/Batalla de Puebla.md",
+    "Biología/Biología.md",
+    "Preguntas que pueden venir.md",
+    "Química/Química.md",
+    "Diccionario.md",
+    "Química/Fundamentos e Intuición Química/Tabla Periódica.md",
+    "Química/Fundamentos e Intuición Química/Sustancias químicas.md",
+    "indiceejemplo.md",
+    "indiceejemplo.txt",
+    "Física/Leyes de Newton.md",
+    "Matemáticas/Cónicas.md",
+    "Matemáticas/Matemáticas.md",
+    "Español/Ortografía/Ortografía.md",
+    "Español/Vocabulario.md",
+    "Español/Redacción.md",
+    "Español/Lecturas/Comprensión de lectura.md",
+    "Español/Lecturas/Autismo.md",
+    "Español/Funciones de la lengua",
+    "Imagenes/Notas/Pasted image 20260427191753.png",
+    "Pasted image 20260427191603.png",
+    "Imagenes/Preguntas/Pasted image 20260411192130.png",
+    "Química/Fundamentos e Intuición Química",
+    "Español/Lecturas",
+    "Imagenes/Preguntas/Pasted image 20260411192009.png",
+    "Imagenes/Preguntas/Pasted image 20260411191811.png",
+    "Imagenes/Preguntas/Pasted image 20260411191736.png",
+    "Imagenes/Preguntas/Pasted image 20260411191615.png",
+    "Imagenes/Preguntas/Pasted image 20260410204429.png",
+    "Imagenes/Preguntas/Pasted image 20260410204209.png",
+    "Física/Untitled",
+    "Imagenes/Notas",
+    "Imagenes/Preguntas",
     "Historia de México/Planes",
     "Historia de México/Tratados",
-    "Historia de México/Presidentes de México",
-    "Imagenes/Pasted image 20260326074207.png",
-    "Historia de México/México independiente",
-    "Historia de México/México contemporáneo",
-    "Historia de México/La Revolución Mexicana",
-    "Historia de México/La reforma liberal y la resistencia de la Republica",
-    "Historia de México/La reconstrucción nacional",
-    "Historia de México/El Porfiriato",
-    "Historia de México/El movimiento de Independencia de la Nueva España",
-    "Imagenes/Pasted image 20260318115847.png",
-    "Imagenes/b91bf74c-7a5c-4709-9b26-2420a7161724_w1080_h608.avif",
-    "Imagenes/ecuador-and-greenwich-with-hemispheres--t3chat--1.jpg",
-    "Imagenes/enlarged-and-enhanced-image--t3chat--1.jpg",
-    "Imagenes/473749686_122215435526021111_7276943481093133837_n.jpg",
-    "Imagenes/9fcd7885a2a782c2bd67e8ba723fc922.webp",
-    "Imagenes/Taller-biomas-del-mundo.webp",
-    "Imagenes/koppen.jpg",
-    "Imagenes/evaporacion-3.webp"
+    "Historia de México/Presidentes de México"
   ]
 }

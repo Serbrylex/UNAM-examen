@@ -1,0 +1,5 @@
+[[Leyes de Newton]]
+[[Ley de Hooke]]
+[[Leyes de la termodinámica]]
+[[Ley de Coulomb]]
+[[Fenómenos Ondulatorios]]

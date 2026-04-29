@@ -1,0 +1,552 @@
+## [[Matemáticas]]
+
+**Operaciones con números reales, complejos y expresiones algebraicas**
+- [[Números reales]]
+  - [[Suma y resta]]
+  - [[Multiplicación y división]]
+  - [[Raíces y potencias con exponente racional]]
+- [[Números complejos]]
+  - [[Suma y resta]]
+  - [[Multiplicación]]
+- [[Expresiones algebraicas]]
+  - [[Suma y resta]]
+  - [[Multiplicación y división]]
+  - [[Raíces y potencias con exponente racional]]
+  - [[Operaciones con radicales]]
+
+**Productos notables y factorización**
+- [[Binomio de Newton (a+b)n, n ∈ ℕ]]
+- [[Teorema del residuo y del factor]]
+- [[Simplificación de fracciones algebraicas]]
+- [[Operaciones con fracciones algebraicas]]
+
+**Ecuaciones**
+- [[Ecuación, identidad y propiedades de la igualdad]]
+- [[Ecuaciones de primer grado]]
+- [[Ecuaciones de segundo grado]]
+
+**Desigualdades**
+- [[Desigualdad de primer grado en una variable y sus propiedades]]
+
+**Sistemas de ecuaciones**
+- [[Sistemas de dos ecuaciones lineales con dos incógnitas]]
+  - [[Métodos de solución]]
+- [[Sistemas de tres ecuaciones lineales con tres incógnitas]]
+  - [[Métodos de solución (Regla de Cramer)]]
+
+**Funciones algebraicas**
+- [[Dominio, contradominio y regla de correspondencia]]
+- [[Rango o imagen]]
+- [[Gráfica]]
+- [[Implícitas y explícitas]]
+- [[Crecientes y decrecientes]]
+- [[Continuas y discontinuas]]
+- [[Álgebra de funciones]]
+
+**Trigonometría**
+- [[Trigonometría básica]]
+  - [[Medida de un ángulo (conversión de grados a radianes y de radianes a grados)]]
+  - [[Razones trigonométricas]]
+  - [[Resolución de triángulos rectángulos]]
+  - [[Ley de los Senos y Ley de los Cosenos]]
+  - [[Resolución de triángulos oblicuángulos]]
+  - [[Razones trigonométricas para un ángulo en cualquier cuadrante. Fórmulas de reducción]]
+- [[Funciones trigonométricas]]
+  - [[El círculo trigonométrico]]
+  - [[Funciones trigonométricas directas]]
+    - [[Dominio y rango]]
+    - [[Periodo y amplitud]]
+    - [[Desfasamiento]]
+    - [[Asíntotas de la gráfica]]
+
+**Funciones exponenciales y logarítmicas**
+- [[Dominio y rango]]
+- [[Gráficas y asíntotas]]
+
+**Recta**
+- [[Distancia entre dos puntos]]
+- [[Coordenadas de un punto que divide a un segmento de acuerdo con una razón dada]]
+- [[Pendiente de una recta]]
+- [[Formas de la ecuación de la recta y su gráfica]]
+- [[Condiciones de paralelismo y perpendicularidad]]
+- [[Distancia de un punto a una recta]]
+- [[Ecuaciones de las medianas, mediatrices y alturas de un triángulo. Puntos de intersección (ortocentro, circuncentro y baricentro)]]
+
+**Circunferencia**
+- [[Circunferencia como lugar geométrico]]
+- [[Formas ordinaria (canónica) y general de la ecuación de la circunferencia con centro en el origen]]
+- [[Ecuación de la circunferencia con centro en (h, k) en las formas ordinaria y general]]
+- [[Elementos de una circunferencia]]
+
+**Parábola**
+- [[Parábola como lugar geométrico]]
+- [[Formas ordinaria y general de la ecuación de la parábola cuando el vértice está en el origen y el eje focal coincide con alguno de los ejes coordenados]]
+- [[Formas ordinaria y general de la ecuación de la parábola cuando el vértice está en un punto cualquiera del plano y eje focal paralelo a alguno de los ejes coordenados]]
+- [[Elementos de una parábola]]
+
+**Elipse**
+- [[Elipse como lugar geométrico]]
+- [[Relación entre los parámetros a, b y c]]
+- [[Formas ordinaria y general de la ecuación de la elipse con centro en el origen y eje focal sobre alguno de los ejes coordenados]]
+- [[Formas ordinaria y general de la ecuación de la elipse con centro fuera del origen y eje focal paralelo a alguno de los ejes coordenados]]
+- [[Elementos de una elipse]]
+
+**Hipérbola**
+- [[Hipérbola como lugar geométrico]]
+- [[Relación entre los parámetros de la hipérbola a, b y c]]
+- [[Formas ordinaria y general de la ecuación de la hipérbola con centro en el origen y eje focal sobre alguno de los ejes coordenados]]
+- [[Formas ordinaria y general de la ecuación de la hipérbola con centro fuera del origen y eje focal paralelo a alguno de los ejes coordenados]]
+- [[Elementos de una hipérbola]]
+
+**Ecuación general de segundo grado**
+- [[Las cónicas]]
+- [[Ecuación general de segundo grado]]
+- [[Criterios para identificar a la cónica que representa una ecuación de segundo grado]]
+- [[Traslación de ejes]]
+
+**Límites**
+- [[Concepto intuitivo]]
+- [[Definición formal]]
+- [[Teoremas sobre límites]]
+- [[Obtención de límites]]
+- [[Formas indeterminadas]]
+- [[Continuidad en un punto y en un intervalo]]
+
+**La derivada**
+- [[Definición de derivada y sus notaciones]]
+- [[Obtención de derivadas]]
+- [[Regla de la cadena]]
+- [[Derivada de funciones implícitas]]
+- [[Derivadas sucesivas de una función]]
+- [[Interpretación geométrica y física]]
+- [[Ecuaciones de la tangente y de la normal a una curva]]
+- [[Cálculo de velocidad y aceleración de un móvil]]
+- [[Máximos y mínimos relativos de una función]]
+- [[Máximos y mínimos absolutos en un intervalo cerrado]]
+- [[Puntos de inflexión y de concavidad en una curva]]
+- [[Problemas de la vida cotidiana]]
+
+**La integral**
+- [[Función integrable en un intervalo cerrado]]
+- [[Teoremas que justifican las propiedades de la integral de una función]]
+- [[Integral inmediata]]
+- [[Tabla de fórmulas de integración]]
+- [[Métodos de integración]]
+- [[Integral definida y su notación]]
+
+## [[Física]]
+
+**2. Cinemática**
+- [[Características de los fenómenos mecánicos]]
+- [[Movimiento rectilíneo uniforme]]
+- [[Movimiento uniformemente acelerado]]
+
+**3. Fuerzas y Ley de la Gravitación Universal**
+- [[Factores que cambian la estructura o el estado de movimiento de objetos]]
+- [[El concepto de fuerza]]
+- [[El carácter vectorial de la fuerza]]
+- [[Superposición de fuerzas]]
+- [[Equilibrio rotacional y traslacional. Fuerza y torque]]
+- [[Ley de la Gravitación Universal. Movimiento de planetas]]
+
+**4. Trabajo y leyes de la conservación**
+- [[Concepto de trabajo mecánico]]
+- [[Concepto de potencia]]
+- [[Energía cinética]]
+- [[Energía potencial]]
+- [[Conservación de la energía mecánica]]
+- [[Conservación del ímpetu (momento)]]
+- [[Colisiones entre partículas en una dimensión]]
+- [[Procesos disipativos (fricción y rozamiento)]]
+
+**5. Termodinámica**
+- [[Calor y temperatura]]
+	- [[Diferencia entre calor y temperatura]]
+	- [[Equilibrio térmico]]
+	- [[Escalas termométricas absolutas]]
+	- [[Conductividad calórica y capacidad térmica específica]]
+- [[Teoría Cinética de los Gases]]
+	- [[Estructura de la materia (enfoque clásico)]]
+	- [[Temperatura según la Teoría Cinética de los Gases]]
+	- [[Ecuación de estado de los gases ideales]]
+
+**6. Ondas**
+- [[Caracterización de ondas mecánicas]]
+- [[Reflexión y refracción de ondas]]
+- [[Difracción e interferencia de ondas]]
+- [[Energía de una onda incidente y de las ondas transmitida y reflejada]]
+
+**7. Electromagnetismo**
+- [[Efectos cualitativos entre cuerpos cargados eléctricamente]]
+- [[Ley de Coulomb. Campo eléctrico]]
+- [[Ley de Ohm y potencia eléctrica]]
+- [[Circuitos]]
+	- [[Circuitos de resistencias]]
+	- [[Circuitos de condensadores]]
+- [[Campo magnético]]
+- [[Inducción electromagnética]]
+- [[Relación entre campo magnético y eléctrico]]
+- [[Inducción de campos]]
+- [[La luz como onda electromagnética]]
+- [[Espectro electromagnético]]
+- [[Leyes de Ampère–Maxwell]]
+- [[Leyes de Faraday y Henry]]
+
+**8. Fluidos**
+- [[Fluidos en reposo]]
+	- [[Presión atmosférica]]
+	- [[Principio de Pascal]]
+	- [[Principio de Arquímedes]]
+	- [[Presión hidrostática]]
+	- [[Tensión superficial y capilaridad]]
+- [[Fluidos en movimiento]]
+	- [[Ecuación de continuidad]]
+	- [[Ecuación de Bernoulli]]
+	- [[Viscosidad]]
+
+**9. Óptica**
+- [[Reflexión y refracción de la luz]]
+- [[Espejos planos y esféricos]]
+- [[Lentes convergentes y divergentes]]
+- [[Punto de vista contemporáneo (dualidad)]]
+	- [[Modelo corpuscular]]
+	- [[Modelo ondulatorio]]
+
+**10. Física contemporánea**
+- [[Estructura atómica de la materia]]
+	  - [[Modelos atómicos]]
+	  - [[El experimento de Rutherford]]
+	  - [[Espectroscopia y el modelo atómico de Bohr]]
+- [[Física nuclear]]
+	  - [[El descubrimiento de la radiactividad]]
+	  - [[Decaimiento radiactivo]]
+	  - [[Detectores de radiactividad]]
+	  - [[Fisión y fusión nucleares]]
+	  - [[Aplicaciones de la radiactividad y la energía nuclear]]
+- [[Otras formas de energía]]
+
+## [[Química]]
+
+**1. Temas básicos**
+- [[Sustancias químicas]]
+	  - [[Sustancias puras: elemento y compuesto]]
+	  - [[Mezclas: homogéneas y heterogéneas]]
+- [[Estructura atómica]]
+	  - [[Conceptos de átomo, protón, electrón, neutrón, número atómico y masa atómica]]
+- [[Tabla periódica]]
+	  - [[Clasificación de elementos: metales, no metales y metaloides]]
+	  - [[Regla del octeto de Lewis]]
+	  - [[Propiedades periódicas]]
+	    - [[Electronegatividad y tipos de enlace: iónico y covalente]]
+- [[Clasificación de los compuestos en óxidos básicos, óxidos ácidos (anhídridos), ácidos, bases y sales]]
+- [[Mol]]
+	  - [[Concepto]]
+	  - [[Cálculo de masa molar]]
+
+**2. Agua**
+- [[Composición del agua y estructura molecular]]
+	  - [[Polaridad y puentes de hidrógeno]]
+- [[Propiedades físicas: puntos de ebullición y de fusión, capacidad calorífica específica]]
+- [[Propiedades químicas: tipo de enlace, capacidad (poder) disolvente del agua]]
+- [[Ácidos y bases]]
+	  - [[Clasificación por su conductividad: fuertes y débiles]]
+	  - [[Diferenciación de las sustancias de acuerdo con su pH]]
+	  - [[Indicadores y pH]]
+- [[Soluciones o disoluciones]]
+	  - [[Concepto de soluto y disolvente]]
+- [[Contaminación del agua]]
+	  - [[Principales contaminantes: físicos, químicos y biológicos]]
+	  - [[Fuentes generadoras: industrial, urbana y agrícola]]
+- [[Importancia y aplicaciones del agua para la humanidad]]
+- [[Uso responsable y preservación del agua]]
+
+**3. Aire**
+- [[¿Qué es el aire?]]
+- [[Composición porcentual del aire]]
+- [[Reacciones del oxígeno]]
+	  - [[Reacciones de combustión]]
+	  - [[Formación de óxidos básicos]]
+	  - [[Formación de óxidos ácidos (nitrógeno, azufre y carbono)]]
+- [[Reacciones de óxido–reducción]]
+- [[Ciclos del oxígeno, nitrógeno y carbono]]
+- [[Contaminantes del aire]]
+	  - [[Contaminantes primarios del aire (óxidos de nitrógeno, carbono y azufre, partículas suspendidas e hidrocarburos)]]
+	  - [[Principales fuentes generadoras (industriales, urbanas y agrícolas)]]
+	  - [[Impacto ambiental: inversión térmica y lluvia ácida]]
+
+**4. Alimentos**
+- [[Carbohidratos]]
+	  - [[Estructura]]
+	  - [[Fuente de energía de disponibilidad inmediata]]
+- [[Lípidos]]
+	  - [[Estructura]]
+	  - [[Almacén de energía]]
+- [[Proteínas]]
+	  - [[Grupos funcionales presentes en aminoácidos]]
+	  - [[Enlace peptídico]]
+- [[Vitaminas y minerales: fuentes e importancia]]
+
+**5. La energía y las reacciones químicas**
+- [[Reacciones químicas endotérmicas y exotérmicas]]
+
+## [[Biología]]
+
+**1. Célula**
+- [[Teoría Celular]]
+	  - [[Descubrimiento de las células]]
+	  - [[Formulación y postulados de la Teoría Celular]]
+- [[Estructura celular]]
+	  - [[Moléculas orgánicas presentes en las células y su función]]
+	  - [[Estructura y función de los organelos celulares]]
+	  - [[Diferencias entre células procarióticas y eucarióticas]]
+
+**2. Metabolismo celular**
+- [[Anabolismo y catabolismo]]
+	- [[Concepto de anabolismo y catabolismo]]
+	- [[Papel de las enzimas y del ATP en el metabolismo]]
+- [[Fotosíntesis]]
+	  - [[Aspectos generales de la fase luminosa]]
+	  - [[Aspectos generales de la fase oscura]]
+	  - [[Importancia]]
+- [[Respiración anaerobia]]
+	- [[Aspectos generales de la glucólisis]]
+	- [[Fermentación láctica y fermentación alcohólica]]
+	- [[Balance energético]]
+- [[Respiración aerobia]]
+	- [[Aspectos generales del Ciclo de Krebs]]
+	- [[Aspectos generales de la cadena respiratoria]]
+	- [[Balance energético]]
+
+**3. Reproducción**
+- [[Ciclo celular]]
+	- [[Fases del ciclo celular]]
+	- [[Estructura y funciones del ADN]]
+	- [[Estructura y funciones del ARN]]
+- [[Reproducción celular]]
+	- [[Fases e importancia de la mitosis]]
+	- [[Fases e importancia de la meiosis]]
+- [[Reproducción a nivel de organismo]]
+	- [[Aspectos generales de la reproducción asexual]]
+	- [[Aspectos generales de la reproducción sexual]]
+
+**4. Mecanismos de la herencia**
+- [[Trabajos de Mendel y sus principios de la herencia]]
+- [[Teoría cromosómica de la herencia]]
+	- [[Formulación de la teoría cromosómica de la herencia]]
+	- [[Herencia ligada al sexo]]
+	- [[Concepto e importancia de las mutaciones]]
+- [[Ingeniería genética]]
+	- [[Aspectos generales de la tecnología del ADN recombinante y sus aplicaciones]]
+
+**5. Evolución**
+- [[Teorías para explicar el origen de la vida]]
+	- [[Teoría quimiosintética de Oparin-Haldane]]
+	- [[Teoría endosimbiótica de Margulis]]
+- [[Teorías para explicar el proceso evolutivo]]
+	- [[Teoría de Lamarck]]
+	- [[Teoría Darwin-Wallace]]
+	- [[Teoría sintética]]
+- [[Evidencias de la evolución: paleontológicas, anatómicas, embriológicas, genéticas y biogeográficas]]
+- [[Consecuencias de la evolución: adaptación y biodiversidad]]
+	- [[Criterios para la clasificación de los organismos]]
+	- [[Características generales de los cinco reinos]]
+
+**6. Los seres vivos y su ambiente**
+- [[Estructura del ecosistema]]
+	- [[Niveles de organización ecológicos: población, comunidad y ecosistema]]
+	- [[Características de los componentes abióticos y bióticos]]
+- [[Dinámica del ecosistema]]
+	- [[Flujo de energía en las cadenas y tramas alimenticias]]
+	- [[Ciclos biogeoquímicos]]
+	- [[Relaciones inter e intraespecíficas]]
+- [[Deterioro ambiental]]
+
+## [[Historia Universal]]
+
+**1. La Historia**
+- [[Definición y utilidad de la Historia]]
+- [[Periodización de la Historia]]
+
+**2. Las revoluciones burguesas**
+- [[Las ideas de la Ilustración]]
+- [[El fortalecimiento de la burguesía]]
+	- [[La independencia de las Trece Colonias]]
+	- [[La Revolución Francesa y el Imperio napoleónico]]
+	- [[La Independencia de Hispanoamérica]]
+	- [[La Revolución Industrial]]
+- [[El liberalismo económico y político del siglo XIX]]
+
+**3. Pensamiento y movimientos sociales y políticos del siglo XIX**
+- [[La lucha entre el liberalismo y el conservadurismo]]
+- [[Los movimientos obreros y el pensamiento socialista]]
+- [[El nacionalismo y los procesos de unificación nacional de Italia y Alemania]]
+
+**4. El imperialismo**
+- [[La revolución científico-tecnológica]]
+- [[La expansión colonial y las rivalidades imperialistas (1870 - 1914)]]
+
+**5. La Primera Guerra Mundial**
+- [[Los antecedentes inmediatos y el desarrollo]]
+- [[La Revolución Socialista Rusa y las consecuencias de la Primera Guerra Mundial]]
+
+**6. El mundo entre guerras**
+- [[La Crisis de 1929]]
+- [[Los regímenes totalitarios]]
+
+**7. La Segunda Guerra Mundial**
+- [[El origen y el desarrollo]]
+- [[Las consecuencias]]
+
+**8. El conflicto entre el capitalismo y el socialismo**
+- [[Los bloques de poder]]
+- [[La Guerra Fría]]
+- [[Luchas de liberación nacional en Asia y África]]
+
+**9. El mundo actual**
+- [[La caída del bloque soviético]]
+- [[La globalización económica y política]]
+- [[El desarrollo científico y tecnológico]]
+
+## [[Historia de México]]
+
+**1. La Nueva España (siglos XVI a XIX)**
+- [[Los antecedentes: Mesoamérica, áreas culturales]]
+- [[Descubrimiento y conquista militar y espiritual de México]]
+- [[La organización política]]
+- [[La estructura económica y social]]
+- [[Las Reformas Borbónicas]]
+- [[Las ciencias y las artes]]
+
+**2. El movimiento de Independencia de la Nueva España (1810 - 1821)**
+- [[Causas y antecedentes]]
+- [[Etapas del movimiento: iniciación, organización, resistencia y consumación]]
+
+**3. México independiente (1821 - 1854)**
+- [[Los primeros proyectos de organización política]]
+- [[Los conflictos internacionales]]
+- [[La situación económica]]
+- [[La lucha entre federalismo y centralismo]]
+
+**4. La Reforma liberal y la resistencia de la República (1854 - 1876)**
+- [[La Revolución de Ayutla]]
+- [[El Congreso Constituyente y la Constitución de 1857]]
+- [[El gobierno de Benito Juárez y las Leyes de Reforma]]
+- [[La Intervención Francesa en México y el Imperio de Maximiliano]]
+- [[La Restauración de la República: los gobiernos de Benito Juárez y Sebastián Lerdo de Tejada]]
+
+**5. El Porfiriato (1876 - 1911)**
+- [[Los gobiernos de Porfirio Díaz: el estado liberal oligárquico y la dictadura]]
+- [[Los aspectos económicos, sociales y culturales del régimen porfirista]]
+- [[Los movimientos de oposición al régimen porfirista]]
+
+**6. La Revolución Mexicana (1910 - 1920)**
+- [[Los antecedentes de la Revolución Mexicana]]
+- [[Las etapas de la lucha armada: maderismo, constitucionalismo y lucha de facciones]]
+- [[El Congreso Constituyente y la Constitución de 1917]]
+- [[El gobierno de Venustiano Carranza]]
+
+**7. La reconstrucción nacional (1920 - 1940)**
+- [[Del caudillismo al presidencialismo]]
+- [[El Maximato]]
+- [[El Plan Sexenal y el Cardenismo]]
+
+**8. México contemporáneo (1940 - 2000)**
+- [[Las políticas de Unidad Nacional (1940 - 1952)]]
+- [[El desarrollo estabilizador y el “Milagro Mexicano” (1952 - 1970)]]
+- [[La política del desarrollo compartido (1970 - 1982)]]
+- [[La política neoliberal en México y la globalización (1982 - 2000)]]
+
+## [[Literatura]]
+
+**1. El texto**
+- [[Propiedades del texto: propósito, adecuación, cabalidad, coherencia, organización textual y disposición espacial]]
+- [[Relación entre la función lingüística y su organización textual]]
+- [[El texto periodístico]]
+	- [[Propósito]]
+	- [[Función referencial]]
+	- [[Elementos de la nota informativa]]
+	- [[La selección, jerarquización, omisión y reiteración de la información]]
+- [[El texto dramático]]
+	- [[Organización dialógica]]
+	- [[Acción: desarrollo, nudo y desenlace]]
+	- [[Los personajes]]
+	- [[Tragedia. Características]]
+	- [[Comedia. Características]]
+- [[El texto poético]]
+	- [[El poema]]
+	- [[Análisis intratextual del poema]]
+		- [[Metro]]
+		- [[Rima]]
+		- [[Ritmo]]
+		- [[Metáfora y otras figuras retóricas]]
+	- [[Análisis contextual]]
+
+**2. Géneros y corrientes literarias**
+- [[Géneros literarios: épico, lírico y dramático]]
+- [[Corrientes literarias]]
+	- [[Realismo. Características y autores representativos]]
+	- [[Contemporánea. Características y autores representativos]]
+- [[Texto narrativo]]
+	- [[El cuento. Características y corrientes]]
+	- [[La novela. Características y corrientes]]
+
+**3. Redacción y técnicas de investigación documental**
+- [[El resumen, la paráfrasis, la cita textual y el comentario]]
+- [[Registro de las fuentes]]
+	- [[Fichas bibliográficas y hemerográficas]]
+	- [[Fichas de trabajo]]
+
+## [[Geografía]]
+
+**1. La Tierra, base del desarrollo del hombre**
+- [[La Geografía, una ciencia natural y social: relación del hombre con la naturaleza]]
+- [[La ubicación espacial y temporal]]
+	- [[Coordenadas geográficas: latitud y longitud, ejercicios de localización]]
+	- [[Los husos horarios y el cambio de fecha: ejercicios de aplicación]]
+- [[Geografía física: el paisaje natural]]
+	- [[La tectónica global]]
+		- [[Zonas de riesgo volcánico y sísmico en el mundo y en México, en relación con las placas tectónicas]]
+		- [[Distribución de las llanuras, mesetas y montañas más representativas del mundo y de México]]
+		- [[Relación de las formas del relieve con la distribución de la población y las actividades económicas]]
+		- [[Distribución de los minerales preciosos, industriales y energéticos en el mundo y en México]]
+	- [[El agua como recurso fundamental]]
+		- [[El ciclo hidrológico como conjunto de procesos que relaciona la hidrosfera, con la atmósfera, la litósfera y la biosfera]]
+		- [[Distribución de los principales ríos y lagos del mundo y de México]]
+		- [[Relación de los ríos, los lagos y las aguas subterráneas con la distribución de la población y las actividades económicas]]
+		- [[Importancia del mar: aprovechamiento de las maras y las corrientes marinas; efectos climáticos de las corrientes y su relación con las actividades económicas]]
+		- [[Los recursos pesqueros y minerales del mar y su aprovechamiento: banco de especies de aguas frías y cálidas; petróleo, gas y concentrados polimetálicos]]
+
+**2. Geografía humana: el paisaje cultural (espacio geográfico)**
+- [[Las regiones naturales]]
+	- [[Su distribución en el mundo y en México]]
+	- [[Sus recursos naturales renovables y no renovables y su relación con las actividades económicas]]
+	- [[La alteración de las regiones naturales como resultado de la actividad humana y las concentraciones de población]]
+	- [[Zonas de riesgo por fenómenos meteorológicos en México: los ciclones]]
+- [[Problemas de deterioro ambiental: causas y consecuencias]]
+	- [[El cambio climático global: el “efecto invernadero”]]
+	- [[Adelgazamiento de la capa de ozono]]
+	- [[Contaminación, sobreexplotación y desperdicio de las aguas por la actividad agropecuaria e industrial, así como el uso doméstico]]
+	- [[Zonas de riesgo por la explotación y transporte de petróleo: la marea negra]]
+- [[La población mundial y de México]]
+	- [[Áreas de concentración y vacíos de la población en el mundo y en México]]
+	- [[El crecimiento acelerado de la población: causas y consecuencias]]
+	- [[Movimientos migratorios actuales: causas y consecuencias]]
+		- [[Migraciones internacionales: sur-norte]]
+		- [[Migraciones nacionales: campo-ciudad]]
+- [[La economía mundial]]
+	- [[Contrastes entre países desarrollados y subdesarrollados]]
+		- [[Indicadores socioeconómicos: natalidad, alfabetismo, ingreso per cápita, esperanza de vida, etcétera]]
+  - [[La globalización de la economía]]
+	- [[Papel de las transnacionales y del Fondo Monetario Internacional]]
+	- [[Los bloques económicos regionales: liderazgo de los Estados Unidos de América, Alemania y Japón]]
+- [[Organización política actual del mundo y de México]]
+	- [[La desintegración y unificación de los Estados]]
+		- [[Los nuevos países de Europa]]
+		- [[Principales zonas de tensión política en el mundo]]
+	- [[División política de México, límites y fronteras]]
+- [[México, aspectos económicos]]
+	- [[Principales áreas de producción agropecuaria y pesquera]]
+	- [[Distribución de los principales productos mineros y energéticos]]
+	- [[Principales áreas industriales del país]]
+	- [[Comercio exterior: productos de importación y exportación]]
+	- [[Importancia de las vías de comunicación y de los transportes]]
