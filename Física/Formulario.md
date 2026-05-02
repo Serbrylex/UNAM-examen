@@ -58,3 +58,11 @@ Donde:
 * **$v$**: Velocidad de propagación (m/s)
 * **$\lambda$**: Longitud de onda (m)
 * **$f$**: Frecuencia (Hz o ciclos/s) 
+
+### Ímpetu (p)
+
+$p = m * v$
+
+Conservación del ímpetu
+
+$$m_x \cdot v_{x\_inicial} + m_y \cdot v_{y\_inicial} = m_x \cdot v_{x\_final} + m_y \cdot v_{y\_final}$$
