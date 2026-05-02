@@ -46,6 +46,7 @@ Trata las respuesta no como hechos, sino como datos generados con el propósito 
 #### Recomendaciones finales
 
 https://pumabecas.com/simulador-examen-unam-de-licenciatura/ tiene todos los exámenes de ejemplo de las guías de 2020 a 2026, en forma de simulador interactivo.
+También puedes usar asperalearn.com... :)
 Toma cada pregunta, léela y sin ver las opciones piensa en la respuesta
 Luego lee las opciones y escribe en detalle (en tu libreta o computadora) porque es o no es la respuesta correcta.
 Si no sabes la respuesta, aplica los métodos de este texto.
