@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d7701904b0329d54",
+        "id": "b39a7594af3a0ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "c2216516803c2c24",
+            "id": "8f45889e4547f745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemáticas/Formulario.md",
+                "file": "Español/Lecturas/Comprensión de lectura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulario"
+              "title": "Comprensión de lectura"
             }
           },
           {
-            "id": "bf4697a22d755b24",
+            "id": "73e968c70ea5e544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatura/Literatura.md",
+                "file": "Español/Lecturas/Los hikikomori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literatura"
+              "title": "Los hikikomori"
             }
           },
           {
-            "id": "6a6486633c0ec654",
+            "id": "7dd1024bed9cf410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatura/Géneros y corrientes literarias/Corrientes literarias.md",
+                "file": "Español/Lecturas/Los recuerdos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corrientes literarias"
-            }
-          },
-          {
-            "id": "3f3ddedf5f508f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de Respuesta al Ítem (TRI) y Distractores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoría de Respuesta al Ítem (TRI) y Distractores"
+              "title": "Los recuerdos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,35 +212,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f3ddedf5f508f7b",
+  "active": "73e968c70ea5e544",
   "lastOpenFiles": [
-    "Literatura/Géneros y corrientes literarias/Literatura contemporánea.md",
-    "Teoría de Respuesta al Ítem (TRI) y Distractores.md",
-    "Literatura/Géneros y corrientes literarias/Corrientes literarias.md",
-    "Literatura/Géneros y corrientes literarias/Realismo.md",
+    "Español/Lecturas/Comprensión de lectura.md",
+    "Español/Lecturas/Los recuerdos.md",
+    "Español/Lecturas/Tiempo libre.md",
+    "Español/Lecturas/Los hikikomori.md",
+    "Español/Lecturas/Goethe, pensar la ciencia con el espíritu del arte.md",
+    "Español/Lecturas/La partida.md",
+    "Español/Lecturas/Los huesos.md",
+    "Español/Lecturas/Lemmings.md",
+    "Español/Lecturas/La era de la información.md",
+    "Español/Lecturas/El caso Sacco y Vanzetti.md",
+    "Geografía/Geografía.md",
+    "Español/Lecturas/DARWIN TENÍA RAZÓN - LA ENDOGAMIA PERJUDICÓ A SU ESTIRPE.md",
+    "Geografía/Tips geografía.md",
+    "Matemáticas/Formulario.md",
     "Literatura/Literatura.md",
+    "Literatura/Géneros y corrientes literarias/Corrientes literarias.md",
+    "Teoría de Respuesta al Ítem (TRI) y Distractores.md",
+    "Literatura/Géneros y corrientes literarias/Literatura contemporánea.md",
+    "Literatura/Géneros y corrientes literarias/Realismo.md",
     "Español/Español.md",
     "Física/Formulario.md",
-    "Matemáticas/Formulario.md",
     "Matemáticas/Cónicas.md",
     "Química/Fundamentos e Intuición Química/Molaridad.md",
     "Química/Química.md",
     "Geografía/Geografía Física/Placas tectónicas.md",
     "Geografía/Geografía Física/Los sistemas montañosos de México.md",
-    "Geografía/Geografía Física/Formas del relieve.md",
-    "Literatura/Redacción y técnicas de investigación documental/Comentario.md",
-    "Índice.md",
-    "Historia de México/Historia de México.md",
-    "Historia de México/México contemporáneo/México contemporáneo.md",
-    "Historia Universal/Historia Universal.md",
-    "Biología/Célula.md",
-    "Física/Principio de Pascal.md",
     "Imagenes/Notas/Pasted image 20260428174244.png",
-    "Física/Física.md",
-    "tes.md",
-    "Geografía/Geografía.md",
-    "Biología/Biología.md",
-    "Preguntas que pueden venir.md",
     "indiceejemplo.txt",
     "Español/Funciones de la lengua",
     "Imagenes/Notas/Pasted image 20260427191753.png",
